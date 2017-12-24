@@ -4,11 +4,11 @@ Copyright (c) 2009-2012 The Bitcoin Core developers
 
 Copyright (c) 2012-2014 The PPCoin developers
 
-Copyright (c) 2016-2017 The RegalCoin Core developers
+Copyright (c) 2017 The YoutuCoin Core developers
 
 # License
 
-RegalCoin is released under the terms of the MIT license. See COPYING for more information or see http://opensource.org/licenses/MIT.
+YoutuCoin is released under the terms of the MIT license. See COPYING for more information or see http://opensource.org/licenses/MIT.
 
 # YoutuCoin Specifications
 Coin Type           : POW/POS Hybrid
@@ -19,11 +19,11 @@ Coin Abbreviation   : YTC
 
 Premine             : 5 Million
 
-Maximum coin supply : 27 Million
+Maximum coin supply : 31 Million
 
 POW: 
 
-Block Reward        : 100 YTC
+Block Reward        : 50 YTC
 
 Total POW block Reward : 22,000 Block
 
@@ -41,7 +41,7 @@ POS Yearly interest : 10%
 
 # Intro
 
-RegalCoin (YTC) is an online payment system, enabling instant payments to anyone in the world without using an intermediary. RegalCoin can be minted by computational devices including personal computers and portable devices through PoW and PoS. YoutuCoin aims at fairness, cost effective and energy efficiency during coin minting. YoutuCoin is a hybrid PoW/PoS-based cryptocurrency that integrates two mechanisms: proof-of-work (PoW) and proof-of-stake (PoS) protocols. YoutuCoin is a CPU & GPU only.
+YoutuCoin (YTC) is an online payment system, enabling instant payments to anyone in the world without using an intermediary. YoutuCoin can be minted by computational devices including personal computers and portable devices through PoW and PoS. YoutuCoin aims at fairness, cost effective and energy efficiency during coin minting. YoutuCoin is a hybrid PoW/PoS-based cryptocurrency that integrates two mechanisms: proof-of-work (PoW) and proof-of-stake (PoS) protocols. YoutuCoin is a CPU & GPU only.
 Features
 
 PoW, the YoutuCoin proof-of-work (PoW) protocol, in addition to required computational works to be done to deter denial of service attacks, is also a network-dependent rewarding model system. The PoW rewards participants who solve complicated cryptographical questions not only to validate transactions but also to create new blocks in order to generate coins. The coins mined via PoW are adjusted and balanced by two primary mechanisms:
@@ -51,11 +51,11 @@ PoW, the YoutuCoin proof-of-work (PoW) protocol, in addition to required computa
 
     The particular designed block reward system to remove the competitive nature of mining and offer an even playing field for anyone looking to issue coins without expensive equipment - offering features such as energy saving, proof of mining.
 
-    PoS, the RegalCoin proof-of-stake (PoS) protocol, aims to achieve distributed consensus through operations in addition to PoW. PoS is designed such that it rejects potential attacks, for example, through accumulating a large amount of coins or offline stake time. RegalCoin hybridizes PoW with PoS, and integrate both consensus approaches in order to acquire benefits from the two mechanisms and create a more robust payment system. PoS particularly enhances the security of YTC's staking system that distinguishes itself from the original concept developed by PPCoin.
+    PoS, the YoutuCoin proof-of-stake (PoS) protocol, aims to achieve distributed consensus through operations in addition to PoW. PoS is designed such that it rejects potential attacks, for example, through accumulating a large amount of coins or offline stake time. YoutuCoin hybridizes PoW with PoS, and integrate both consensus approaches in order to acquire benefits from the two mechanisms and create a more robust payment system. PoS particularly enhances the security of YTC's staking system that distinguishes itself from the original concept developed by PPCoin.
 
 # Development Process
 
-The master branch is regularly built and tested, but is not guaranteed to be completely stable. Tags are created regularly to indicate new official, stable release versions of RegalCoin Core.
+The master branch is regularly built and tested, but is not guaranteed to be completely stable. Tags are created regularly to indicate new official, stable release versions of YoutuCoin Core.
 
 The developer mailing list should be used to discuss complicated or controversial changes before working on a patch set.
 
@@ -75,11 +75,9 @@ Changes should be tested by somebody other than the developer who wrote the code
 
 # Info
 
-  Website: http://www.YoutuCoin.co
+  Website: https://www.YoutuCoin.com
   
-  explorer: http://www.YoutuCoin.info
-  
-  Bitcointalk thread: https://bitcointalk.org/index.php?topic=2093710.0
+  explorer: https://www.YoutuCoin.info
   
 # Disclaimer
-This is a RegalCoin and is in no way affiliated with any government or government agency.
+This is a YoutuCoin and is in no way affiliated with any government or government agency.
